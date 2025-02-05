@@ -10,7 +10,7 @@ library(igraph)
 
 # Set up YouTube authentication variables
 
-my_api_key <- "AIzaSyBgE9vk5dfvbKhwas04u6DaD_5mIRiUzdw"
+my_api_key <- ""
 
 
 # Authenticate to YouTube and collect data
